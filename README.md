@@ -11,3 +11,7 @@ XMR: ```49ZrSZJe1BZAGLTsbsP5nqYYP3jExRPGZMfhZAaX2RNXaiC78fRQL5oCakWvW3yKK6g1eQvf
 Feeling The troll vibes alright
 
 Doge Coin: ```DMJJNgXmPBFLKTr6NZhYD1HugNT37xKpaR```
+
+----------------------------------------------------
+
+Have a different Crypto tell me in issues and I will see if I can make a wallet for donations.
