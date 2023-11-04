@@ -22,6 +22,8 @@ Feeling The troll vibes alright
 
 Doge Coin: ```DMJJNgXmPBFLKTr6NZhYD1HugNT37xKpaR```
 
+Baby Doge: ```0x511b90e1ecbbad6b3d861b6d4a54a7873de1c916```
+
 ----------------------------------------------------
 
 Have a different Crypto tell me in issues and I will see if I can make a wallet for donations.
