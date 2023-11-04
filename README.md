@@ -8,7 +8,7 @@ As I am 14 I sadly only have crypto wallets.
 
 BTC: ```18dPuiYGMyAjKoKKkrodKHYUDGQU8wYkcT```
 
-BTC Cash: ```1HACqRb85mM3nTfVdyhyfF8JoEijhdc3EF```
+BCH: ```1HACqRb85mM3nTfVdyhyfF8JoEijhdc3EF```
 
 ETH: ```0x511b90e1ecbbad6b3d861b6d4a54a7873de1c916```
 
