@@ -1,8 +1,8 @@
-I am a 14 year old programmer who loves cats. I am a small developer who is currently working on big projects I am working on a bitcoin wallet.
+I am a 13 year old programmer who loves cats. I am a small developer who is currently working on big projects.
 
 Donations:
 
-As I am 14 I sadly only have crypto wallets.
+As I am 13 I sadly only have crypto wallets.
 
 ----------------------------------------------------
 
