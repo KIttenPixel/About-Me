@@ -6,7 +6,6 @@ As I am 13 I sadly only have crypto wallets.
 
 ----------------------------------------------------
 
-BTC: ```18dPuiYGMyAjKoKKkrodKHYUDGQU8wYkcT```
 
 BCH: ```1HACqRb85mM3nTfVdyhyfF8JoEijhdc3EF```
 
